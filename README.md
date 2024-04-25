@@ -1,5 +1,6 @@
 # Product-price-crawling
 제품가격 크롤링
+최초 작성일자 : 2023.05.21
 사용언어 : Python
 
 사용방법
